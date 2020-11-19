@@ -1,14 +1,9 @@
-This is stylesheets for server private trackers.
+This is stylesheets for several private trackers.
 
-ahd = https://awesome-hd.me/
-
-ar = https://alpharatio.cc/
-
-btn = https://broadcasthe.net/
-
-hdb = https://hdbits.org/
-
-mtv = https://morethan.me/
-
-ptp = https://passthepopcorn.me/
-
+<br>Sites:
+<br>ahd = https://awesome-hd.me/
+<br>ar = https://alpharatio.cc/
+<br>btn = https://broadcasthe.net/
+<br>hdb = https://hdbits.org/
+<br>mtv = https://morethan.me/
+<br>ptp = https://passthepopcorn.me/
