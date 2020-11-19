@@ -1,4 +1,4 @@
-This is stylesheets for several private trackers.
+These are stylesheets for several private trackers.
 <br><br>Sites:
 <br>ahd = https://awesome-hd.me/
 <br>ar = https://alpharatio.cc/
