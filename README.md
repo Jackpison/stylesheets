@@ -1,5 +1,4 @@
 This is stylesheets for several private trackers.
-
 <br>Sites:
 <br>ahd = https://awesome-hd.me/
 <br>ar = https://alpharatio.cc/
